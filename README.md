@@ -152,6 +152,5 @@ No known bugs at this time.
 Mikeal Teshome Alemu 
 Henok Demeke Diriba 
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
